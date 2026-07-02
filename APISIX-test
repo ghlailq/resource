@@ -1,24 +1,24 @@
 # APISIX-test
 
 # 内网
-# 10.90.70.100
+# 10.176.81.217
 
 # 公网
 # 182.92.149.75
 
 # 供应链
-10.90.70.101 otmsapi.xesv5.com
-10.90.70.101 api.xesv5.com
-10.90.70.100 app.xueersi.com
-10.90.70.100 api.xueersi.com
-10.90.70.100 app.xesv5.com
-10.90.70.100 api-test.xueersi.com
-10.90.70.100 service.xesv5.com
-10.90.70.100 zhishiku.xesv5.com
+10.176.81.225  otmsapi.xesv5.com
+10.176.81.225  api.xesv5.com
+10.176.81.217 app.xueersi.com
+10.176.81.217 api.xueersi.com
+10.176.81.217 app.xesv5.com
+10.176.81.217 api-test.xueersi.com
+10.176.81.217 service.xesv5.com
+10.176.81.217 zhishiku.xesv5.com
 
 # 上传
-10.90.70.100 upload.xueersi.com
+10.176.81.217 upload.xueersi.com
 
 # admin 平台
-10.90.70.100 admin.xesv5.com
-10.90.70.100 app-inner.xesv5.com
+10.176.81.217 admin.xesv5.com
+10.176.81.217 app-inner.xesv5.com
