@@ -1,0 +1,18 @@
+# APISIX-gray
+
+# 供应链
+10.160.17.132  otmsapi.xesv5.com
+10.160.17.132  api.xesv5.com
+10.160.17.132 app.xueersi.com
+10.160.17.132 api.xueersi.com
+10.160.17.132 app.xesv5.com
+10.160.17.132 api-test.xueersi.com
+10.160.17.132 service.xesv5.com
+10.160.17.132 zhishiku.xesv5.com
+
+# 上传
+10.160.17.132 upload.xueersi.com
+
+# admin 平台
+10.160.17.132 admin.xesv5.com
+10.160.17.132 app-inner.xesv5.com
